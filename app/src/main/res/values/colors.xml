@@ -1,0 +1,7 @@
+<resources>
+    <color name="as_primary">#1976D2</color>
+    <color name="as_text">#111111</color>
+    <color name="as_subtext">#666666</color>
+    <color name="as_divider">#EEEEEE</color>
+    <color name="as_chip_bg">#E3F2FD</color>
+</resources>
